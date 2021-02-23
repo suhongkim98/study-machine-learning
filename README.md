@@ -5,4 +5,6 @@
 
 공부순서
 1. NumPy
+2. Pandas
+3. Matplotlib
 ```
